@@ -1,0 +1,1 @@
+<livewire:table.main name="semi" :model="$semi" kegiatanId="{{$kegiatanId}}" />
